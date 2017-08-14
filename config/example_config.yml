@@ -1,0 +1,26 @@
+bot_credentials:
+    # These are the credentials that are requred to get the bot running
+    client_id: ""
+    username: ""
+    token: ""
+    owner_id: ""
+
+database_info: 
+    # You can keep the default names, but you will need to set up the account
+    database: "discordoragi"
+    user: "discordoragi"
+    password: "password"
+    host: "localhost"
+
+mal_info:
+    # Mal username/password required. Useragent is description of bot
+    user: ""
+    password: ""
+
+footer: >
+    {anime}, <manga>, \]LN\[ |
+    [FAQ](https://github.com/dashwav/Discordoragi/wiki) |
+    [/r/](http://www.reddit.com/r/Roboragi/) |
+    [Discord](https://discord.gg/SNv9yKs) |
+    [Source](https://github.com/dashwav/Discordoragi) |
+    [Synonyms](https://www.reddit.com/r/Roboragi/wiki/synonyms)
